@@ -1,5 +1,5 @@
 # AdditionApp
-I simple addition web app in shiny framewrok.
+A simple addition web app in shiny framewrok.
 
 app.R performs addition reactively
 
